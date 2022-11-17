@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.image-1{
+  height: 300px;
+  width: 300px;
+}
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.word{
+  margin: 10px
+  height: 300px;
+  width: 100px;
+}
+.excel{
+  margin: 10px
+height: 300px;
+  width: 100px;
+}
+.lang{
+
+height: 300px;
+  width: 300px;
+}
